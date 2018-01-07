@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css?family=Lora|Source+Sans+Pro:400,700");
+body {
+  font-family: "Source Sans Pro", Helvetica, sans-serif; }
+
+h2, h3, h4 {
+  font-family: Lora, "Times New Roman", serif; }
+
+footer {
+  margin: 40px auto 0 auto;
+  text-align: center; }
+
+.card-text {
+  height: 240px; }
+
+.card-title {
+  font-weight: 700; }
+
+.jumbotron {
+  background-color: #F1FFFE; }
+
+.navbar {
+  background-color: #D0E8D1; }
+
+.card-block {
+  background-color: #FFFFE4; }
+
+.breadcrumb {
+  background-color: #FFFFE4; }
+
+#contact {
+  margin-top: 30px; }
+
+.icon {
+  margin: 40px 20px; }
+
+.navbar-brand {
+  color: #555;
+  font-size: 24px;
+  font-family: Lora, "Times New Roman", serif;
+  vertical-align: bottom;
+  font-weight: 700; }
+
+.nav-item {
+  vertical-align: bottom; }
+
+svg path:hover {
+  fill: grey; }
+
+/*# sourceMappingURL=main.css.map */

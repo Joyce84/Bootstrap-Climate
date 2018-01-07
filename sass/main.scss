@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Lora|Source+Sans+Pro:400,700');
+@import "variables";
+@import "mixins";
+
+body {
+    font-family: $font-sans-serif;
+}
+
+h2, h3, h4 {
+    font-family: $font-serif;
+}
+
+footer {
+    margin: 40px auto 0 auto;
+    text-align: center;
+}
+
+.card-text {
+    height: 240px;
+}
+
+.card-title {
+    font-weight: 700;
+}
+
+.jumbotron {
+    background-color: $colour-background;
+}
+
+.navbar {
+    background-color: $colour-navbar;
+
+}
+
+.card-block {
+    background-color: $colour-cards;
+}
+
+.breadcrumb {
+    background-color: $colour-cards;
+}
+
+#contact {
+    margin-top: 30px;
+}
+
+.icon {
+    margin: 40px 20px;
+}
+
+.navbar-brand {
+    color: $colour-nav-text;
+    font-size: 24px;
+    font-family: $font-serif;
+    vertical-align: bottom;
+    font-weight: 700;
+}
+
+.nav-item {
+    vertical-align: bottom;
+}
+
+svg path:hover {
+  fill: grey;
+}
