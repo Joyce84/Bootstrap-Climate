@@ -46,4 +46,7 @@ footer {
 svg path:hover {
   fill: grey; }
 
+.card {
+  margin: 20px auto; }
+
 /*# sourceMappingURL=main.css.map */
